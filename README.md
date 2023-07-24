@@ -1,6 +1,6 @@
 # Understanding Dependency Injection in ASP.NET Core
 
-Dependency Injection (DI) is a powerful design pattern that promotes loose coupling between components in software development. By injecting dependencies into a class rather than having the class create them directly, DI enhances code maintainability, testability, and reusability. In this comprehensive blog post, we will delve into the concept of Dependency Injection and its seamless implementation in ASP.NET Core, complete with relevant code examples from my renowned [Clean Structured Project](https://github.com/kawser2133/clean-structured-project) and [Clean Structured API Project](https://github.com/kawser2133/clean-structured-api-project) repositories.
+Dependency Injection (DI) is a powerful design pattern that promotes loose coupling between components in software development. By injecting dependencies into a class rather than having the class create them directly, DI enhances code maintainability, testability, and reusability. In this repository, I will delve into the concept of Dependency Injection and its seamless implementation in ASP.NET Core, complete with relevant code examples from my renowned [Clean Structured Project](https://github.com/kawser2133/clean-structured-project) and [Clean Structured API Project](https://github.com/kawser2133/clean-structured-api-project) repositories.
 
 ## The Essence of Dependency Injection
 
@@ -12,7 +12,7 @@ At the heart of Dependency Injection lies the principle of depending on abstract
 
 ## Implementing Dependency Injection in ASP.NET Core
 
-ASP.NET Core incorporates a robust built-in Dependency Injection container, facilitating smooth DI integration into your application. Below, we illustrate the implementation using the ProductService and ProductRepository classes from the [Clean Structured Project](https://github.com/kawser2133/clean-structured-project) and [Clean Structured API Project](https://github.com/kawser2133/clean-structured-api-project) repositories:
+ASP.NET Core incorporates a robust built-in Dependency Injection container, facilitating smooth DI integration into your application. Below, I illustrate the implementation using the ProductService and ProductRepository classes from the [Clean Structured Project](https://github.com/kawser2133/clean-structured-project) and [Clean Structured API Project](https://github.com/kawser2133/clean-structured-api-project) repositories:
 
 ### Step 1: Define Service Interface and Implementation
 
