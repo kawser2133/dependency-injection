@@ -2,6 +2,8 @@
 
 Dependency Injection (DI) is a powerful design pattern that promotes loose coupling between components in software development. By injecting dependencies into a class rather than having the class create them directly, DI enhances code maintainability, testability, and reusability. In this repository, I will delve into the concept of Dependency Injection and its seamless implementation in ASP.NET Core, complete with relevant code examples from my renowned [Clean Structured Project](https://github.com/kawser2133/clean-structured-project) and [Clean Structured API Project](https://github.com/kawser2133/clean-structured-api-project) repositories.
 
+You can visit my blog post- [Understanding Dependency Injection: A Practical Guide with Code Examples](https://binarybytez.com/understanding-dependency-injection/)
+
 ## The Essence of Dependency Injection
 
 At the heart of Dependency Injection lies the principle of depending on abstractions rather than concrete implementations. This results in loosely coupled classes, where changes to one component do not necessitate modifications in others. DI revolves around three critical components:
