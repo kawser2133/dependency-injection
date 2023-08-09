@@ -103,4 +103,4 @@ public class ProductController : ControllerBase
 
 Dependency Injection is a foundational concept in contemporary software development and a prominent feature of ASP.NET Core. By leveraging DI, developers achieve enhanced separation of concerns, improved modularity, and simplified testing capabilities in their applications. ASP.NET Core's in-built DI container streamlines the DI implementation, making dependency management seamless and fostering a more sustainable and maintainable codebase.
 
-Follow the principles of Dependency Injection, and elevate your application architecture to new heights of scalability and maintainability, bringing about a paradigm shift in your development endeavors. Let's embrace the power of Dependency Injection and propel our software solutions to greater heights of excellence!
+Follow the principles of Dependency Injection, and elevate your application architecture to new heights of scalability and maintainability, bringing about a paradigm shift in your development endeavors. Let's embrace the power of Dependency Injection and propel our software solutions to greater heights of excellence.
